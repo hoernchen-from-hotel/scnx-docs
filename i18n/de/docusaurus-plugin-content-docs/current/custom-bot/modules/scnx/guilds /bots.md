@@ -152,7 +152,7 @@ Um die Sprache deines Bots zu ändern,
 <details>
     <summary>Die Sprache von meinem Server wird nicht unterstützt</summary>
 
-    Wir entschuldigen uns dafür dass deine Serversprache nicht auf SCNX verfügbar ist, aber wir, dass Scootkit Team sind sehr klein und wir sind <i>wirklich</i> begrenzt an Resourcen und können nicht Support für andere Sprachen außer Englisch und Deutsch anbieten.
+    Wir entschuldigen uns dafür, dass deine Serversprache nicht auf SCNX verfügbar ist, aber wir, dass Scootkit Team sind sehr klein und wir sind <i>wirklich</i> begrenzt an Resourcen und können nicht Support für andere Sprachen außer Englisch und Deutsch anbieten.
     Du kannst gerne <a href="https://scnx.app/help">unser Team fragen</a> ob du mithelfen kannst zu übersetzen, aber bitte verstehe dass wir nicht jede Anfrage annehmen können. Wir würden gerne jede Sprache der Welt unterstützen, aber zuerst müssen wir uns momentan auf unsere Ziel-Gruppen fokusieren.
 
 </details>
